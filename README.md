@@ -16,7 +16,7 @@
 
 <p align="center">
     <kbd>
-        <img src=".github/minimapreview.gif" style="border-radius: 5px" alt="Desktop page">
+        <img src=".github/minimapreview.gif" width="800" style="border-radius: 5px" alt="Desktop page">
     </kbd>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <kbd>
