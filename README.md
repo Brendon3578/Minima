@@ -2,17 +2,13 @@
     <img src=".github/minima.png">
 </h1>
 
-<p align="center">
-    <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-projeto">Projeto</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-layout">Layout</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-features">Features extras</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="#-licença">Licença</a>
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<p align="center">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-green">
-</p>
+## 💻 Projeto
+
+O **Minima** é uma landing page simples, responsiva, criado a partir de um template do *Figma* elaborado para divulgar o serviço de uma empresa de design sobre mídias sociais. Possui as seguintes seções: Home (principal), Sobre nós, Serviços, História de Sucesso, Depoimentos, Nossa equipe e Contato. Acesse o site [clicando aqui](https://brendon3578.github.io/Minima/)
 
 <p align="center">
     <kbd>
@@ -24,15 +20,11 @@
     </kbd>
 </p>
 
-## 🛠 Tecnologias
+## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias de Front-end: **HTML**, **CSS** e **Javascript**
 
-- HTML
-- CSS
-- JavaScript
-
-Bibliotecas
+Bibliotecas utilizadas
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwiperJS](https://swiperjs.com/)
@@ -45,29 +37,20 @@ Utilitários
 - [Transfonter](https://transfonter.org/)
 - [IconMoon](https://icomoon.io/)
 
-## 💻 Projeto
-
-O projeto **Minima** é um landing page, responsiva, criado a partir de um template do *Figma* elaborado para divulgar o serviço de uma empresa de design sobre mídias sociais. Possui as seguintes seções: Header, Navigataion, Home, Sobre, Serviços, História, Depoimentos, Equipe, Contato e Footer.
-Acesse o site [clicando aqui](https://brendon3578.github.io/Minima/).
-
 ## 📷 Layout
 
-O layout da aplicação está disponível no Figma:
-
-[<img src="https://img.shields.io/badge/Acessar%20layout-Figma-blue">](https://www.figma.com/community/file/992793363410720333/Minima-Landing-Page)
+Para ver o layout no qual a aplicação foi desenvolvida, acesse o link do projeto no Figma [clicando aqui](https://www.figma.com/community/file/992793363410720333/Minima-Landing-Page)
 
 ## ☕ Features extras
 
-Funcionalidades extras não extraidas do template.
+Funcionalidades extras adicionadas no projeto.
 
 - [x] Responsividade
 - [x] Mudar estilo do header depois de rolar a Hero section
 - [x] Animações de *Counting Up* presentes na Success Story section
-- [x] Grid para responsividade presente na Our Team section e no Footer.
-
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+- [x] Grid para responsividade presente na Our Team section e no Footer
+- [x] Links do Header mudam conforme depedendo da seção que o usuário está vendo
+- [x] Depoimentos podem ser alterados tanto na versão mobile quanto Desktop
 
 ---
 
